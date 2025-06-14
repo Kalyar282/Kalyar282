@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Kalyar Myo Nyunt
-- 👀 I’m interested in Coding and Photography
-- 🌱 I’m currently learning VUEJs
+- 👀 I’m interested in Product Development
+- 🌱 I am working as a Software Engineer
 - 📫 How to reach me ->mail to myokalyar282@gmail.com ✨
